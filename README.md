@@ -1,4 +1,13 @@
-### Hi there my name is Rick Hill and i am a programming learner👋
+## Hi there my name is Rick Hill and I am a Programming Learner👋
+### Full Stack Developer
+
+## Skills
+* HTML,
+* CSS,
+* Javascript,
+* Angular 5,
+* NodeJS,
+* SQL Server.
 
  <a href="https://github.com/Bendelack">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bendelack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
